@@ -106,6 +106,33 @@ html{
     font-family: 'Bree Serif', serif;
 }
 
+/* Services Section  */
+
+#services {
+    margin: 16px;
+    display: flex;
+}
+
+#services .box {
+    border: 2px solid brown;
+    padding: 34px;
+    margin: 3px 55px;
+    margin-bottom: 27px;
+    border-radius: 28px;
+    background-color: rgb(255, 202, 202);
+}
+
+#services .box img {
+    height: 160px;
+    margin: auto;
+    display: block;
+    /* width: ; */
+}
+
+#services .box p {
+    font-family: 'Bree Serif', serif;
+}
+
 
 
 footer{
