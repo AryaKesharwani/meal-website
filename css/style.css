@@ -95,15 +95,16 @@ html{
 }
 
 #home h1 {
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-family: 'Bree Serif', serif;
 }
 
 #home p {
-    color: white;
+    color: rgb(17, 1, 1);
     text-align: center;
     font-family: 'Bree Serif', serif;
+    font-weight: bold;
 }
 
 /* Services Section  */
